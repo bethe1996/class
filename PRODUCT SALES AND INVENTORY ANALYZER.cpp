@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include<cstdlib>
+
 #define taxRateDirective 15
 
 using namespace std;
